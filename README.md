@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenBrymo
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working with Kotlin in Android dev 
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me benbrymo5@gmail.com
 
